@@ -94,6 +94,11 @@ A simple web project.
 - `style.css` - Styling
 - `script.js` - JavaScript functionality
 
-<!--## How to Run
 
-Open `index.html` in your browser.-->
+```text
+student-management/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
